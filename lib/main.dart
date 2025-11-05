@@ -22,7 +22,7 @@ class MainApp extends StatelessWidget {
           appBarTheme: const AppBarTheme(
             iconTheme: IconThemeData(color: Colors.deepPurple),
             titleTextStyle: TextStyle(
-              color: Colors.deepPurple,
+              color: Color.fromARGB(255, 0, 0, 0),
               fontSize: 20,
               fontWeight: FontWeight.bold,
             ),

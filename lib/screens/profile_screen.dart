@@ -61,7 +61,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                               child: const CircleAvatar(
                                 radius: 50,
                                 backgroundImage:
-                                    AssetImage('images/placeholder_image.png'),
+                                    AssetImage('images/place-holder.jpg'),
                               ),
                             ),
                             if (isSignedIn)
